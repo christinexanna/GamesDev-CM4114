@@ -796,6 +796,7 @@ PlayerSettings:
   XboxOneOverrideIdentityPublisher: 
   vrEditorSettings: {}
   cloudServicesEnabled:
+    Collab: 1
     UNet: 1
   luminIcon:
     m_Name: 
@@ -810,11 +811,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 
+  cloudProjectId: dc9f9179-f5ea-4a7a-950d-d6dc85a6540e
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: CWGamesDev
+  organizationId: christinexanna
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
